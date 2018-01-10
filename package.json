@@ -1,0 +1,17 @@
+{
+  "name": "choo-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx electron-start src/ --dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^6.6.1",
+    "choo-devtools": "^2.3.3"
+  }
+}
